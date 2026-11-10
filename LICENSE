@@ -1,0 +1,103 @@
+Day.io SDK License Terms
+
+Copyright © 2026 Day.io. All rights reserved.
+
+IMPORTANT NOTICE – READ BEFORE DOWNLOADING OR USING. THIS SDK IS MADE
+AVAILABLE SOLELY TO AUTHORIZED CUSTOMERS OF DAY.IO AND/OR ITS AFFILIATES
+THAT HOLD A PAID LICENSE UNDER A VALID AND EFFECTIVE WRITTEN AGREEMENT WITH
+DAY.IO. IF YOU ARE NOT SUCH AN AUTHORIZED CUSTOMER, YOU ARE NOT PERMITTED
+TO, AND MUST NOT, DOWNLOAD, ACCESS, COPY, INSTALL OR OTHERWISE USE THE SDK,
+AND YOU MUST IMMEDIATELY DELETE ANY COPY IN YOUR POSSESSION. THE PUBLIC
+AVAILABILITY OF THE SDK DOES NOT GRANT ANY LICENSE OR RIGHT. ANY
+UNAUTHORIZED DOWNLOAD OR USE CONSTITUTES INFRINGEMENT AND A BREACH OF THESE
+TERMS, AND DAY.IO RESERVES THE RIGHT TO CLAIM DAMAGES AND TO PURSUE ALL
+RIGHTS AND REMEDIES AVAILABLE AT LAW AND IN EQUITY, INCLUDING INJUNCTIVE
+RELIEF.
+
+This software development kit, including all libraries, code, documentation,
+APIs, updates and associated files (the “SDK”), is licensed, not sold. By
+downloading or using the SDK, you (“Licensee”) accept these terms on behalf
+of yourself and the entity you represent.
+
+1. Relationship to the Agreement. This license is granted pursuant to, and
+is subject to, the written agreement in effect between Licensee and Day.io
+(or its affiliate) governing the Day.io services (the “Agreement”). These
+terms supplement the Agreement and form part of it. In the event of any
+conflict, the Agreement prevails, except that these terms prevail with
+respect to the scope of the license and restrictions on the SDK. Capitalized
+terms not defined here have the meaning given in the Agreement.
+
+2. License Grant. Subject to Licensee’s continued compliance with the
+Agreement and these terms, Day.io grants Licensee, for the term of the
+Agreement, a limited, non-exclusive, non-transferable, non-sublicensable,
+revocable license to: (a) use the SDK solely to integrate the Day.io
+services into Licensee’s own applications as permitted under the Agreement;
+and (b) distribute the SDK only in object code form, embedded in and as an
+inseparable part of such applications, to Licensee’s end customers
+authorized under the Agreement. Licensee shall ensure that any person
+receiving access to or use of the SDK through Licensee is bound by written
+terms containing restrictions and protections substantially equivalent to
+those set forth herein.
+
+3. Restrictions. Except as expressly permitted in Section 2, Licensee shall
+not, and shall not permit any third party to: (a) copy, modify, translate or
+create derivative works of the SDK; (b) distribute, sublicense, sell, lease,
+lend, publish or otherwise make the SDK available on a stand-alone basis;
+(c) remove, alter or obscure any proprietary notices; (d) use the SDK to
+build a competing product or service, or for benchmarking published without
+Day.io’s consent; (e) circumvent any security or usage-control mechanism;
+(f) use the SDK to access the Day.io services without a valid and effective
+Agreement; or (g) use, export, re-export or otherwise transfer the SDK in
+violation of applicable law, including privacy, export control laws and
+sanctions laws. Licensee is responsible for safeguarding any credentials,
+API keys, access tokens or similar authentication mechanisms provided by
+Day.io and shall promptly notify Day.io of any actual or suspected
+unauthorized use.
+
+4. Reverse Engineering. Licensee shall not reverse engineer, decompile,
+disassemble or otherwise attempt to derive the source code, algorithms or
+structure of the SDK, except to the limited extent that such activity is
+expressly permitted under applicable law notwithstanding this restriction,
+provided that: (a) such activity is strictly necessary to achieve
+interoperability of the SDK with Licensee's applications; (b) Licensee has
+first submitted a written request to Day.io describing the information
+reasonably required to achieve such interoperability; and (c) Day.io has not
+provided the requested information, assistance or cooperation within a
+reasonable period following such request.
+
+5. Ownership and Confidentiality. The SDK is the proprietary and
+confidential information of Day.io and its licensors. Licensee shall protect
+the SDK as Day.io Confidential Information and shall use at least reasonable
+measures to prevent unauthorized access, disclosure or use. Day.io retains
+all right, title and interest, including all intellectual property rights,
+in and to the SDK and any modifications thereof. All rights not expressly
+granted are reserved. Any feedback Licensee provides may be used by Day.io
+without restriction or obligation.
+
+6. Third-Party and Open-Source Components. The SDK may include third-party
+or open-source components, which are subject to their own license terms as
+identified in the accompanying documentation.
+
+7. Term and Termination. This license terminates automatically and without
+notice upon expiration or termination of the Agreement or upon any breach of
+these terms. Upon termination, Licensee shall immediately cease all use and
+distribution of the SDK and destroy all copies in its possession or control.
+Sections 3 through 10 survive termination.
+
+8. Disclaimer. EXCEPT AS EXPRESSLY SET OUT IN THE AGREEMENT, THE SDK IS
+PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT.
+
+9. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, AND
+EXCEPT AS EXPRESSLY SET OUT IN THE AGREEMENT, DAY.IO SHALL NOT BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING OUT OF OR IN CONNECTION WITH
+THE SDK OR ITS USE. With respect to any person using the SDK without a valid
+Agreement, Day.io shall have no liability whatsoever.
+
+10. General. Governing law and jurisdiction shall be as set out in the
+Agreement. Day.io may update these terms from time to time; the version in
+effect at the time of download applies. If any provision is held
+unenforceable, the remainder remains in full force.
+
+Questions: legal@day.io
